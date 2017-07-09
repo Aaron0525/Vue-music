@@ -145,11 +145,9 @@
 ```
 
 ## 效果截图
-<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/1.png" width="400" height="800" align="center">
-<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/2.png" width="400" height="800" align="center">
-<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/3.png" width="400" height="800" align="center">
-<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/4.png" width="400" height="800" align="center">
-<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/5.png" width="400" height="800" align="center">
+<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/1.png" width="400" height="600" align="center"><img src="https://github.com/Aaron0525/Vue-music/blob/master/static/2.png" width="400" height="600" align="center">
+<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/3.png" width="400" height="600" align="center"><img src="https://github.com/Aaron0525/Vue-music/blob/master/static/4.png" width="400" height="600" align="center">
+<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/5.png" width="400" height="600" align="center">
 
 
 
