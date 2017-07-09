@@ -1,6 +1,6 @@
 # vue-music
 
-> Vue.js 打造高级实战——音乐 App
+> Vue2.0构建移动端音乐 App
 
 ## 项目树
 ```
@@ -145,6 +145,7 @@
 ```
 
 ## 项目截图
+<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/1.png" width="300" height="300" align="center">
 
 ![image](https://github.com/Aaron0525/Vue-music/blob/master/static/1.png)
 
