@@ -144,18 +144,14 @@
 
 ```
 
-## 项目截图
-<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/1.png" width="300" height="300" align="center">
+## 效果截图
+<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/1.png" width="400" height="800" align="center">
+<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/2.png" width="400" height="800" align="center">
+<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/3.png" width="400" height="800" align="center">
+<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/4.png" width="400" height="800" align="center">
+<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/5.png" width="400" height="800" align="center">
 
-![image](https://github.com/Aaron0525/Vue-music/blob/master/static/1.png)
 
-![image](https://github.com/Aaron0525/Vue-music/blob/master/static/2.png)
-
-![image](https://github.com/Aaron0525/Vue-music/blob/master/static/3.png)
-
-![image](https://github.com/Aaron0525/Vue-music/blob/master/static/4.png)
-
-![image](https://github.com/Aaron0525/Vue-music/blob/master/static/5.png)
 
 
 ### 安装与运行
@@ -163,7 +159,7 @@
 ```
 git clone https://github.com/Aaron0525/Vue-music.git
 
-cd vue-music
+cd Vue-music
 
 npm install
 
@@ -171,5 +167,5 @@ npm run dev //服务端运行 访问 http://localhost:8080
 
 npm run build 项目打包 
 
-感兴趣的童鞋可以来个star
+觉得有用的，可以来个star哦！
 
