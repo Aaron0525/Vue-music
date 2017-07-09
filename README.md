@@ -145,7 +145,7 @@
 ```
 
 ## 效果截图
-<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/1.png" width="300" height="500">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/2.png" width="300" height="500" padding-left="10">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/3.png" width="300" height="500" padding-left="10">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/4.png" width="300" height="500" padding-left="10">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/5.png" width="300" height="500" padding-left="10">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/5.png" width="300" height="500" padding-left="10">
+<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/1.png" width="300" height="500">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/2.png" width="300" height="500">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/3.png" width="300" height="500">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/4.png" width="300" height="500">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/5.png" width="300" height="500">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/6.png" width="300" height="500">
 
 
 
