@@ -146,15 +146,15 @@
 
 ## 项目截图
 
-![image](https://github.com/Aaron0525/Vue-music/static/1.png)
+![image](https://github.com/Aaron0525/Vue-music/blob/master/static/1.png)
 
-![image](https://github.com/Aaron0525/Vue-music/static/2.png)
+![image](https://github.com/Aaron0525/Vue-music/blob/master/static/2.png)
 
-![image](https://github.com/Aaron0525/Vue-music/static/3.png)
+![image](https://github.com/Aaron0525/Vue-music/blob/master/static/3.png)
 
-![image](https://github.com/Aaron0525/Vue-music/static/4.png)
+![image](https://github.com/Aaron0525/Vue-music/blob/master/static/4.png)
 
-![image](https://github.com/Aaron0525/Vue-music/static/5.png)
+![image](https://github.com/Aaron0525/Vue-music/blob/master/static/5.png)
 
 
 ### 安装与运行
