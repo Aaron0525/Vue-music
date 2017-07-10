@@ -2,7 +2,7 @@
 
 > Vue2.0构建移动端音乐 App
 
-##预览地址：http://www.upyang.com/Vue-music/index.html#/recommend
+## 预览地址：http://www.upyang.com/Vue-music/index.html#/recommend
 
 ## 项目树
 ```
