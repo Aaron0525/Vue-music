@@ -5,7 +5,7 @@
 ## 预览地址：http://www.upyang.com/Vue-music/index.html#/recommend
 
 ## 效果截图
-<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/1.png" width="250" height="400">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/2.png" width="250" height="400">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/3.png" width="250" height="400">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/4.png" width="250" height="400">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/5.png" width="250" height="400">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/6.png" width="250" height="400">
+<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/1.png" width="250" height="450">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/2.png" width="250" height="450">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/3.png" width="250" height="450">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/4.png" width="250" height="450">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/5.png" width="250" height="450">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/6.png" width="250" height="450">
 
 
 
